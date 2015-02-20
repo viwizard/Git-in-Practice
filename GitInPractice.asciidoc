@@ -14,9 +14,8 @@ Having made my first commit I have learned that 15 insertions means 15 lines.
 I am now to save this file with some dummy lines so I can delete them to see the effect.
 
 # 1
-# 2
 # 3
-# 4
 # 5
-# 6
 # 7
+
+Deleted the even lines
