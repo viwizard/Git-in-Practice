@@ -1,0 +1,15 @@
+This is a new demo file describing the demo repository.
+I am currently working throught a book on SafariBooks Online called 
+
+    "Git in Practice" 
+
+    By: Mike McQuaid
+    Publisher: Manning Publications
+    Pub. Date: September 29, 2014
+    Print ISBN-10: 1-61729-197-8
+    Print ISBN-13: 978-1-61729-197-5
+    Pages in Print Edition: 272
+
+# Having made my first commit I have learned that 11 insertions means 11 lines.
+# I am now to save this file with some dummy lines so I can delete them to see the effect.
+
