@@ -10,6 +10,13 @@ I am currently working throught a book on SafariBooks Online called
     Print ISBN-13: 978-1-61729-197-5
     Pages in Print Edition: 272
 
-# Having made my first commit I have learned that 11 insertions means 11 lines.
-# I am now to save this file with some dummy lines so I can delete them to see the effect.
+Having made my first commit I have learned that 15 insertions means 15 lines.
+I am now to save this file with some dummy lines so I can delete them to see the effect.
 
+# 1
+# 2
+# 3
+# 4
+# 5
+# 6
+# 7
