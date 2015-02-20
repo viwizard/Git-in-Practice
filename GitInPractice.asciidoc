@@ -13,9 +13,5 @@ I am currently working throught a book on SafariBooks Online called
 Having made my first commit I have learned that 15 insertions means 15 lines.
 I am now to save this file with some dummy lines so I can delete them to see the effect.
 
-# 1
-# 3
-# 5
-# 7
-
-Deleted the even lines
+Deleted the rest of the dummy lines
+Now we have some history man ;-)
